@@ -7,7 +7,11 @@ www.omicrono.com##.blockquoteLink
 ! ***** www.pordede.com *****
 www.pordede.com###notifid
 
+| ***** videomega.tv *****
+no-popups: videomega.tv true
+
 ! ***** dominios *****
 * bezoya.work * block
+* popads.net * block
 127.0.0.1 avertissement.online
-no-popus: videomega.tv
+
