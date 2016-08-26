@@ -9,3 +9,4 @@ www.pordede.com###notifid
 
 ! ***** dominios *****
 * bezoya.work * block
+127.0.0.1 avertissement.online
