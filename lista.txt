@@ -1,0 +1,8 @@
+! ***** www.omicrono.com *****
+www.omicrono.com###featured
+www.omicrono.com##.homeAdvertisingSky
+www.omicrono.com###singlePostContentAdsense
+www.omicrono.com##.blockquoteLink
+
+! ***** www.pordede.com *****
+www.pordede.com###notifid
