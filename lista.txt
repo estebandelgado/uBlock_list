@@ -6,3 +6,6 @@ www.omicrono.com##.blockquoteLink
 
 ! ***** www.pordede.com *****
 www.pordede.com###notifid
+
+! ***** dominios *****
+* bezoya.work * block
