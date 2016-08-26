@@ -12,6 +12,6 @@ no-popups: videomega.tv true
 
 ! ***** dominios *****
 * bezoya.work * block
-* popads.net * block
+! * popads.net * block
 127.0.0.1 avertissement.online
 
