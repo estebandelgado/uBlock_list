@@ -1,5 +1,4 @@
 [Adblock Plus 2.0]
-! Title: F.Esteban Delgado
-! Expires: 1 hours
-
-http://www.pordede.com/$subdocument,third-party
+! Version: 10
+! Expires: 1 days
+! Title: facebook news feed annoyances blocker
