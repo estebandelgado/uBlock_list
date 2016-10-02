@@ -1,3 +1,4 @@
-ad2.adfarml.adition.com
-apugod.work
-pordede.com$subdocument,third-party
+! Title: F.Esteban Delgado
+! Expires: 1 hours
+
+http://www.pordede.com/$subdocument,third-party
