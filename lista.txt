@@ -1,19 +1,3 @@
-! ***** www.omicrono.com *****
-www.omicrono.com###featured
-www.omicrono.com##.homeAdvertisingSky
-www.omicrono.com###singlePostContentAdsense
-www.omicrono.com##.blockquoteLink
-
-! ***** www.pordede.com *****
-www.pordede.com###notifid
-
-| ***** videomega.tv *****
-no-popups: videomega.tv true
-videomega.tv * * allow
-videomega.tv popads.net * block
-
 ! ***** dominios *****
-* bezoya.work * block
-* popads.net * block
-127.0.0.1 avertissement.online
+ad2.adfarml.adition.com
 
