@@ -1,4 +1,3 @@
-! ***** dominios *****
 ad2.adfarml.adition.com
 apugod.work
 pordede.com$subdocument,third-party
