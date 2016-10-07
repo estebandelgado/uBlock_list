@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 10
-! Expires: 1 days
+! Expires: 2 hours
 ! Title: estebandelgado
 @@pordede*.js$domain=pordede.com
 @@newpct1*.js$domain=newpct1.com
