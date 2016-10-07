@@ -2,3 +2,11 @@
 ! Version: 10
 ! Expires: 1 days
 ! Title: estebandelgado
+@@pordede*.js$domain=pordede.com
+@@newpct1*.js$domain=newpct1.com
+@@tumejortorrent*.js$domain=tumejortorrent.com
+/publicidad
+*.js$domain=pordede.com|newpct1.com
+! pordede.com
+! newpct1|tumejortorrent
+||*.work
