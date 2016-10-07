@@ -6,6 +6,7 @@
 @@newpct1*.js$domain=newpct1.com
 @@tumejortorrent*.js$domain=tumejortorrent.com
 /publicidad
+.ad
 *.js$domain=pordede.com|newpct1.com
 ! pordede.com
 ! newpct1|tumejortorrent
